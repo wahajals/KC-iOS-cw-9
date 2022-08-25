@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "watching-movie-popcorn-gray-background-close-up-watching-movie-popcorn-gray-background-close-up-132242479.jpg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
